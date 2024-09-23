@@ -1,4 +1,5 @@
 (executable
  (public_name plti_semantics)
  (name main)
+ (modules main types typechecker)
  (libraries plti_semantics))

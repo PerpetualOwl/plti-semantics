@@ -1,0 +1,4 @@
+(executable
+ (public_name plti_semantics)
+ (name main)
+ (libraries plti_semantics))
